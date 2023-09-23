@@ -1,7 +1,6 @@
-# Awesome Project Build with TypeORM
+# Demo issue with @jorgebodega/typeorm-seeding 
 
-Steps to run this project:
+Steps to demo:
 
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+1. Run `npm install` command
+2. Run `npm run seed:run` command
